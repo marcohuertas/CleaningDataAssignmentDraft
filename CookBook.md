@@ -81,7 +81,9 @@ As indicated in “Combining the train and test data”, the new variable names 
 For example: “tbodyaccmeanx” correspond to the mean value of “tBodyAcc-mean()-X”.
 
 ## Description of variables in “tidydata.txt”
-The new data set “tidy data.txt” contains the following variables. Their description is taken from the description provided in the original set from the “Human Activity Recognition Using Smartphones Dataset”
+The new data set “tidy data.txt” contains the following variables. Their description is taken from the description provided in the original set from the “Human Activity Recognition Using Smartphones Dataset”. 
+
+Names of the variables are based on the description given in “Feature selection” section.
 
 * _activity_: (character) Represents the activity performed by the subject. Takes the values “walking”, “walkingup” (representing walking upstairs), “walkingdown” (representing walking downstairs), “sitting”, “standing” and “laying”.
 
@@ -99,7 +101,7 @@ Measured in units of g (Earth’s gravitational acceleration).
 
 * *tbodyaccjerkmeanx, tbodyaccjerkmeany, tbodyaccjerkmeanz*: (numeric) Represent the mean value of the original variables “tBodyAccJerk-mean()-X”, “tBodyAccJerk-mean()-Y” and “tBodyAccJerk-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* *tbodyaccjerkstdx, tbodyaccjerkstdy, tbodyaccjerkstdz: (numeric) Represent the mean value of the original variables “tBodyAccJerk-std()-X”, “tBodyAccJerk-std()-Y” and “tBodyAccJerk-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tbodyaccjerkstdx, tbodyaccjerkstdy, tbodyaccjerkstdz*: (numeric) Represent the mean value of the original variables “tBodyAccJerk-std()-X”, “tBodyAccJerk-std()-Y” and “tBodyAccJerk-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
 * *tbodygyromeanx, tbodygyromeany, tbodygyromeanz*: (numeric) Represent the mean value of the original variables “tBodyGyro-mean()-X”, “tBodyGyro-mean()-Y” and “tBodyGyro-mean()-Z”, respectively. Measured in units of radians/second.
 
