@@ -83,9 +83,9 @@ For example: “tbodyaccmeanx” correspond to the mean value of “tBodyAcc-mea
 ## Description of variables in “tidydata.txt”
 The new data set “tidy data.txt” contains the following variables. Their description is taken from the description provided in the original set from the “Human Activity Recognition Using Smartphones Dataset”
 
-* activity (character): Represents the activity performed by the subject. Takes the values “walking”, “walkingup” (representing walking upstairs), “walkingdown” (representing walking downstairs), “sitting”, “standing” and “laying”.
+* activity: (character) Represents the activity performed by the subject. Takes the values “walking”, “walkingup” (representing walking upstairs), “walkingdown” (representing walking downstairs), “sitting”, “standing” and “laying”.
 
-* subjectid (integer): Identifies the subject. Takes the values from 1 to 30. 
+* subjectid: (integer) Identifies the subject. Takes the values from 1 to 30. 
 
 * - ”tbodyaccmeanx”, "tbodyaccmeany”, "tbodyaccmeanz" (numeric): Represent the mean value of the original variables “tBodyAcc-mean()-X”, “tBodyAcc-mean()-Y” and “tBodyAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
