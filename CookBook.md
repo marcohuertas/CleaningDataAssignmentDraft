@@ -53,16 +53,13 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 * tBodyGyroJerkMean
 
 ## Combining the train and test data 
-The original data set consisted of two sets corresponding to the measurements and calculations obtained for two groups of subjects termed “train” and “test”. The data for these two groups was combined into by selecting only the variables in the original sets that corresponded to the mean and standard deviation of the observations.
+The original data set consisted of two sets corresponding to the measurements and calculations obtained for two groups of subjects termed “train” and “test”. The data for these two groups was combined into a single data set by selecting only the variables in the original sets that corresponded to the mean and standard deviation of the observations.
 
 In this regard, all variables corresponding to the various features with names containing the terms “mean”, “Mean” and “std” were collected from the data set in each group.
 
 The format of the variables is the same as that in the original data set, except that all names are in lowercase letters and any underscore (“_”) or parenthesis (“()”) were removed.
 
-For example the original variable 
-	tBodyAcc-mean()-X
-was transformed into
-	tbodyaccmeanx
+For example the original variable “tBodyAcc-mean()-X” was transformed into “tbodyaccmeanx” in the new data set “tidydata.txt”
 
 The meaning of these variables is described below.
 
@@ -86,9 +83,9 @@ For example: “tbodyaccmeanx” correspond to the mean value of “tBodyAcc-mea
 ## Description of variables in “tidydata.txt”
 The new data set “tidy data.txt” contains the following variables. Their description is taken from the description provided in the original set from the “Human Activity Recognition Using Smartphones Dataset”
 
-* — ”activity" (character): Represents the activity performed by the subject. Takes the values “walking”, “walkingup” (representing walking upstairs), “walkingdown” (representing walking downstairs), “sitting”, “standing” and “laying”.
+* activity (character): Represents the activity performed by the subject. Takes the values “walking”, “walkingup” (representing walking upstairs), “walkingdown” (representing walking downstairs), “sitting”, “standing” and “laying”.
 
-* - ”subjectid" (integer): Identifies the subject. Takes the values from 1 to 30. 
+* subjectid (integer): Identifies the subject. Takes the values from 1 to 30. 
 
 * - ”tbodyaccmeanx”, "tbodyaccmeany”, "tbodyaccmeanz" (numeric): Represent the mean value of the original variables “tBodyAcc-mean()-X”, “tBodyAcc-mean()-Y” and “tBodyAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
