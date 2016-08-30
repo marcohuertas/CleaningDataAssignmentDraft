@@ -87,12 +87,12 @@ The new data set “tidy data.txt” contains the following variables. Their des
 
 * *subjectid*: (integer) Identifies the subject. Takes the values from 1 to 30. 
 
-* - ”tbodyaccmeanx”, "tbodyaccmeany”, "tbodyaccmeanz" (numeric): Represent the mean value of the original variables “tBodyAcc-mean()-X”, “tBodyAcc-mean()-Y” and “tBodyAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tbodyaccmeanx*, *tbodyaccmeany*, *tbodyaccmeanz*: (numeric) Represent the mean value of the original variables “tBodyAcc-mean()-X”, “tBodyAcc-mean()-Y” and “tBodyAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tbodyaccstdx”, "tbodyaccstdy”, "tbodyaccstdz" (numeric): Represent the mean value of the original variables “tBodyAcc-std()-X”, “tBodyAcc-std()-Y” and “tBodyAcc-std()-Z”, respectively.
+* *tbodyaccstdx*, *tbodyaccstdy*, *tbodyaccstdz*: (numeric) Represent the mean value of the original variables “tBodyAcc-std()-X”, “tBodyAcc-std()-Y” and “tBodyAcc-std()-Z”, respectively.
 Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tgravityaccmeanx”, "tgravityaccmeany”, "tgravityaccmeanz” (numeric): Represent the mean value of the original variables “tGravityAcc-mean()-X”, “tGravityAcc-mean()-Y” and “tGravityAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tgravityaccmeanx, tgravityaccmeany, tgravityaccmeanz*: (numeric) Represent the mean value of the original variables “tGravityAcc-mean()-X”, “tGravityAcc-mean()-Y” and “tGravityAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
 * - "tgravityaccstdx”, "tgravityaccstdy”, "tgravityaccstdz" (numeric): Represent the mean value of the original variables “tGravityAcc-std()-X”, “tGravityAcc-std()-Y” and “tGravityAcc-std()-Z”
 , respectively. Measured in units of g (Earth’s gravitational acceleration).
