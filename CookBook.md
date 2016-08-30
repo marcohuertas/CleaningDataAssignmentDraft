@@ -94,62 +94,62 @@ Measured in units of g (Earth’s gravitational acceleration).
 
 * *tgravityaccmeanx, tgravityaccmeany, tgravityaccmeanz*: (numeric) Represent the mean value of the original variables “tGravityAcc-mean()-X”, “tGravityAcc-mean()-Y” and “tGravityAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tgravityaccstdx”, "tgravityaccstdy”, "tgravityaccstdz" (numeric): Represent the mean value of the original variables “tGravityAcc-std()-X”, “tGravityAcc-std()-Y” and “tGravityAcc-std()-Z”
+* *tgravityaccstdx, tgravityaccstdy, tgravityaccstdz*: (numeric) Represent the mean value of the original variables “tGravityAcc-std()-X”, “tGravityAcc-std()-Y” and “tGravityAcc-std()-Z”
 , respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tbodyaccjerkmeanx”, "tbodyaccjerkmeany”, "tbodyaccjerkmeanz" (numeric): Represent the mean value of the original variables “tBodyAccJerk-mean()-X”, “tBodyAccJerk-mean()-Y” and “tBodyAccJerk-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tbodyaccjerkmeanx, tbodyaccjerkmeany, tbodyaccjerkmeanz*: (numeric) Represent the mean value of the original variables “tBodyAccJerk-mean()-X”, “tBodyAccJerk-mean()-Y” and “tBodyAccJerk-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tbodyaccjerkstdx”, "tbodyaccjerkstdy”, "tbodyaccjerkstdz" (numeric): Represent the mean value of the original variables “tBodyAccJerk-std()-X”, “tBodyAccJerk-std()-Y” and “tBodyAccJerk-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tbodyaccjerkstdx, tbodyaccjerkstdy, tbodyaccjerkstdz: (numeric) Represent the mean value of the original variables “tBodyAccJerk-std()-X”, “tBodyAccJerk-std()-Y” and “tBodyAccJerk-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tbodygyromeanx”, "tbodygyromeany”, "tbodygyromeanz" (numeric): Represent the mean value of the original variables “tBodyGyro-mean()-X”, “tBodyGyro-mean()-Y” and “tBodyGyro-mean()-Z”, respectively. Measured in units of radians/second.
+* *tbodygyromeanx, tbodygyromeany, tbodygyromeanz*: (numeric) Represent the mean value of the original variables “tBodyGyro-mean()-X”, “tBodyGyro-mean()-Y” and “tBodyGyro-mean()-Z”, respectively. Measured in units of radians/second.
 
-* - "tbodygyrostdx”, "tbodygyrostdy”, "tbodygyrostdz" (numeric): Represent the mean value of the original variables “tBodyGyro-std()-X”, “tBodyGyro-std()-Y” and “tBodyGyro-std()-Z”, respectively. Measured in units of radians/second.
+* *tbodygyrostdx, tbodygyrostdy, tbodygyrostdz*: (numeric) Represent the mean value of the original variables “tBodyGyro-std()-X”, “tBodyGyro-std()-Y” and “tBodyGyro-std()-Z”, respectively. Measured in units of radians/second.
 
-* - "tbodygyrojerkmeanx”, "tbodygyrojerkmeany”, "tbodygyrojerkmeanz" (numeric): Represent the mean value of the original variables “tBodyGyroJerk-mean()-X”, “tBodyGyroJerk-mean()-Y” and “tBodyGyroJerk-mean()-Z”, respectively. Measured in units of radians/second.
+* *tbodygyrojerkmeanx, tbodygyrojerkmeany, tbodygyrojerkmeanz*: (numeric) Represent the mean value of the original variables “tBodyGyroJerk-mean()-X”, “tBodyGyroJerk-mean()-Y” and “tBodyGyroJerk-mean()-Z”, respectively. Measured in units of radians/second.
 
-* - "tbodygyrojerkstdx”, "tbodygyrojerkstdy”, "tbodygyrojerkstdz" (numeric): Represent the mean value of the original variables “tBodyGyroJerk-std()-X”, “tBodyGyroJerk-std()-Y” and “tBodyGyroJerk-std()-Z”, respectively. Measured in units of radians/second.
+* *tbodygyrojerkstdx, tbodygyrojerkstdy, tbodygyrojerkstdz*: (numeric) Represent the mean value of the original variables “tBodyGyroJerk-std()-X”, “tBodyGyroJerk-std()-Y” and “tBodyGyroJerk-std()-Z”, respectively. Measured in units of radians/second.
 
-* - "tbodyaccmagmean”, "tbodyaccmagstd" (numeric): Represent the mean value of the original variables “tBodyAccMag-mean()” and “tBodyAccMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tbodyaccmagmean, tbodyaccmagstd*: (numeric) Represent the mean value of the original variables “tBodyAccMag-mean()” and “tBodyAccMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tgravityaccmagmean”, "tgravityaccmagstd" (numeric): Represent the mean value of the original variables “tGravityAccMag-mean()” and “tGravityAccMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tgravityaccmagmean, tgravityaccmagstd*: (numeric) Represent the mean value of the original variables “tGravityAccMag-mean()” and “tGravityAccMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tbodyaccjerkmagmean”, "tbodyaccjerkmagstd" (numeric): Represent the mean value of the original variables “tBodyAccJerkMag-mean()” and “tBodyAccJerkMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *tbodyaccjerkmagmean, tbodyaccjerkmagstd*: (numeric) Represent the mean value of the original variables “tBodyAccJerkMag-mean()” and “tBodyAccJerkMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "tbodygyromagmean”, "tbodygyromagstd" (numeric): Represent the mean value of the original variables “tBodyGyroMag-mean()” and “tBodyGyroMag-std()”, respectively. Measured in units of radians/second.
+* *tbodygyromagmean, tbodygyromagstd*: (numeric) Represent the mean value of the original variables “tBodyGyroMag-mean()” and “tBodyGyroMag-std()”, respectively. Measured in units of radians/second.
 
-* - "tbodygyrojerkmagmean”, "tbodygyrojerkmagstd" (numeric): Represent the mean value of the original variables “tBodyGyroJerkMag-mean()” and “tBodyGyroJerkMag-std()”, respectively. Measured in units of radians/second.
+* *tbodygyrojerkmagmean, tbodygyrojerkmagstd*: (numeric) Represent the mean value of the original variables “tBodyGyroJerkMag-mean()” and “tBodyGyroJerkMag-std()”, respectively. Measured in units of radians/second.
 
-* - "fbodyaccmeanx”, "fbodyaccmeany”, "fbodyaccmeanz" (numeric): Represent the mean value of the original variables “fBodyAcc-mean()-X”, “fBodyAcc-mean()-Y” and “fBodyAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *fbodyaccmeanx, fbodyaccmeany, fbodyaccmeanz*: (numeric) Represent the mean value of the original variables “fBodyAcc-mean()-X”, “fBodyAcc-mean()-Y” and “fBodyAcc-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "fbodyaccstdx”, "fbodyaccstdy”, "fbodyaccstdz" (numeric): Represent the mean value of the original variables “fBodyAcc-std()-X”, “fBodyAcc-std()-Y” and “fBodyAcc-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *fbodyaccstdx, fbodyaccstdy, fbodyaccstdz*: (numeric) Represent the mean value of the original variables “fBodyAcc-std()-X”, “fBodyAcc-std()-Y” and “fBodyAcc-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "fbodyaccmeanfreqx”, "fbodyaccmeanfreqy”, "fbodyaccmeanfreqz" (numeric): Represent the mean value of the original variables “fBodyAcc-meanFreq()-X”, “fBodyAcc-meanFreq()-Y” and “fBodyAcc-meanFreq()-Z”, respectively. Measured in units of Hz.
+* *fbodyaccmeanfreqx, fbodyaccmeanfreqy, fbodyaccmeanfreqz*: (numeric) Represent the mean value of the original variables “fBodyAcc-meanFreq()-X”, “fBodyAcc-meanFreq()-Y” and “fBodyAcc-meanFreq()-Z”, respectively. Measured in units of Hz.
 
-* - "fbodyaccjerkmeanx”, "fbodyaccjerkmeany”, "fbodyaccjerkmeanz" (numeric): Represent the mean value of the original variables “fBodyAccJerk-mean()-X”, “fBodyAccJerk-mean()-Y” and “fBodyAccJerk-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *fbodyaccjerkmeanx, fbodyaccjerkmeany, fbodyaccjerkmeanz*: (numeric) Represent the mean value of the original variables “fBodyAccJerk-mean()-X”, “fBodyAccJerk-mean()-Y” and “fBodyAccJerk-mean()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "fbodyaccjerkstdx”, "fbodyaccjerkstdy”, "fbodyaccjerkstdz" (numeric): Represent the mean value of the original variables “fBodyAccJerk-std()-X”, “fBodyAccJerk-std()-Y” and “fBodyAccJerk-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration). 
+* *fbodyaccjerkstdx, fbodyaccjerkstdy, fbodyaccjerkstdz*: (numeric) Represent the mean value of the original variables “fBodyAccJerk-std()-X”, “fBodyAccJerk-std()-Y” and “fBodyAccJerk-std()-Z”, respectively. Measured in units of g (Earth’s gravitational acceleration). 
 
-* - "fbodyaccjerkmeanfreqx”, "fbodyaccjerkmeanfreqy”, "fbodyaccjerkmeanfreqz" (numeric): Represent the mean value of the original variables “fBodyAccJerk-meanFreq()-X”, “fBodyAccJerk-meanFreq()-Y” and “fBodyAccJerk-meanFreq()-Z”, respectively. Measured in units of Hz.
+* *fbodyaccjerkmeanfreqx, fbodyaccjerkmeanfreqy, fbodyaccjerkmeanfreqz*: (numeric) Represent the mean value of the original variables “fBodyAccJerk-meanFreq()-X”, “fBodyAccJerk-meanFreq()-Y” and “fBodyAccJerk-meanFreq()-Z”, respectively. Measured in units of Hz.
 
-* - "fbodygyromeanx”, "fbodygyromeany”, "fbodygyromeanz" (numeric): Represent the mean value of the original variables “fBodyGyro-mean()-X”, “fBodyGyro-mean()-Y” and “fBodyGyro-mean()-Z”, respectively. Measured in units of radians/second.
+* *fbodygyromeanx, fbodygyromeany, fbodygyromeanz*: (numeric) Represent the mean value of the original variables “fBodyGyro-mean()-X”, “fBodyGyro-mean()-Y” and “fBodyGyro-mean()-Z”, respectively. Measured in units of radians/second.
 
-* - "fbodygyrostdx”, "fbodygyrostdy”, "fbodygyrostdz” (numeric): Represent the mean value of the original variables “fBodyGyro-std()-X”, “fBodyGyro-std()-Y” and “fBodyGyro-std()-Z”, respectively. Measured in units of radians/second.
+* *fbodygyrostdx, fbodygyrostdy, fbodygyrostdz*: (numeric) Represent the mean value of the original variables “fBodyGyro-std()-X”, “fBodyGyro-std()-Y” and “fBodyGyro-std()-Z”, respectively. Measured in units of radians/second.
 
-* - "fbodygyromeanfreqx”, "fbodygyromeanfreqy”, "fbodygyromeanfreqz" (numeric): Represent the mean value of the original variables “fBodyGyro-meanFreq()-X”, “fBodyGyro-meanFreq()-Y” and “fBodyGyro-meanFreq()-Z”, respectively. Measured in units of Hz.
+* *fbodygyromeanfreqx, fbodygyromeanfreqy, fbodygyromeanfreqz*: (numeric) Represent the mean value of the original variables “fBodyGyro-meanFreq()-X”, “fBodyGyro-meanFreq()-Y” and “fBodyGyro-meanFreq()-Z”, respectively. Measured in units of Hz.
 
-* - "fbodyaccmagmean”, "fbodyaccmagstd” (numeric): Represent the mean value of the original variables “fBodyAccMag-mean()” and “fBodyAccMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *fbodyaccmagmean, fbodyaccmagstd*: (numeric) Represent the mean value of the original variables “fBodyAccMag-mean()” and “fBodyAccMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "fbodyaccmagmeanfreq" (numeric): Represent the mean value of the original variable “fBodyAccMag-meanFreq()”. Measured in units of Hz.
+* *fbodyaccmagmeanfreq*: (numeric) Represent the mean value of the original variable “fBodyAccMag-meanFreq()”. Measured in units of Hz.
 
-* - "fbodybodyaccjerkmagmean”, "fbodybodyaccjerkmagstd" (numeric): Represent the mean value of the original variables “fBodyBodyAccJerkMag-mean()” and “fBodyBodyAccJerkMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
+* *fbodybodyaccjerkmagmean, fbodybodyaccjerkmagstd*: (numeric) Represent the mean value of the original variables “fBodyBodyAccJerkMag-mean()” and “fBodyBodyAccJerkMag-std()”, respectively. Measured in units of g (Earth’s gravitational acceleration).
 
-* - "fbodybodyaccjerkmagmeanfreq" (numeric): Represent the mean value of the original variable “fBodyBodyAccJerkMag-meanFreq()”. Measured in units of Hz.
+* *fbodybodyaccjerkmagmeanfreq*: (numeric) Represent the mean value of the original variable “fBodyBodyAccJerkMag-meanFreq()”. Measured in units of Hz.
 
-* - "fbodybodygyromagmean”, "fbodybodygyromagstd" (numeric): Represent the mean value of the original variables “fBodyBodyGyroMag-mean()” and “fBodyBodyGyroMag-std()”, respectively. Measured in units of radians/second.
+* *fbodybodygyromagmean, fbodybodygyromagstd*: (numeric) Represent the mean value of the original variables “fBodyBodyGyroMag-mean()” and “fBodyBodyGyroMag-std()”, respectively. Measured in units of radians/second.
 
-* - "fbodybodygyromagmeanfreq" (numeric): Represent the mean value of the original variable 539 “fBodyBodyGyroMag-meanFreq()”. Measured in units of Hz.
+* *fbodybodygyromagmeanfreq*: (numeric) Represent the mean value of the original variable 539 “fBodyBodyGyroMag-meanFreq()”. Measured in units of Hz.
 
-* - "fbodybodygyrojerkmagmean”, "fbodybodygyrojerkmagstd" (numeric): Represent the mean value of the original variables “fBodyBodyGyroJerkMag-mean()” and “fBodyBodyGyroJerkMag-std()”, respectively. Measured in units of radians/second.
+* *fbodybodygyrojerkmagmean, fbodybodygyrojerkmagstd*: (numeric) Represent the mean value of the original variables “fBodyBodyGyroJerkMag-mean()” and “fBodyBodyGyroJerkMag-std()”, respectively. Measured in units of radians/second.
 
-* - "fbodybodygyrojerkmagmeanfreq" (numeric): Represent the mean value of the original variable “fBodyBodyGyroJerkMag-meanFreq()”. Measured in units of Hz.
+* *fbodybodygyrojerkmagmeanfreq*: (numeric) Represent the mean value of the original variable “fBodyBodyGyroJerkMag-meanFreq()”. Measured in units of Hz.
 
